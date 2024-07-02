@@ -1,3 +1,3 @@
 # homepage
 
-[test page](testpage.md)
+[test page](#testpage.md)
