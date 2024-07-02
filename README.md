@@ -9,3 +9,5 @@ Our goals include:
 - Bring visibility to CSUC by competing against teams from other universities
 - Combine multiple academic disciplines into exciting projects
 - Have fun building!
+
+![spacesport2023](https://github.com/Chico-Rocketry/CRAC/assets/118518981/2880309a-4120-4d86-98d5-6a1d97725428)
