@@ -1,6 +1,6 @@
 ## We are Chico Rocketry and Aerospace Club!
 
-We are students at California State University - Chico (CSUC) from all disciplines interested in space exploration. We research, design, and manufacture high-powered rockets and related systems.
+We are students at California State University, Chico (CSUC) from all disciplines interested in space exploration. We research, design, and manufacture high-powered rockets and related systems.
 
 Our goals include:
 - Participate in international-level competitions
