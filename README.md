@@ -1,3 +1,3 @@
 # Chico Rocketry and Aerospace Club
 
-[test page](#testpage.md)
+[test page](testpage.md)
